@@ -38,7 +38,7 @@ Required Python libraries (listed below)
 
 git clone https://github.com/Manikandan200355/CODSOFT_DataScience_Internship.git
 
-cd your-repository
+cd CODSOFT_DataScience_Internship
 
 #### Install the required Python libraries:
 

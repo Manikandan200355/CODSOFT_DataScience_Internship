@@ -36,7 +36,7 @@ Required Python libraries (listed below)
 
 #### Clone the repository to your local machine:
 
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Manikandan200355/CODSOFT_DataScience_Internship.git
 
 cd your-repository
 

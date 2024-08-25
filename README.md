@@ -4,7 +4,9 @@ This repository contains Jupyter notebooks and datasets for three different data
 # Contents
 
 # 1.)IMDB Dataset
-IMDB.ipynb: Jupyter notebook for exploring the IMDB dataset.\n
+
+IMDB.ipynb: Jupyter notebook for exploring the IMDB dataset.
+
 imdb.csv: CSV file containing the IMDB dataset.
 
 # 2.)Iris Dataset
